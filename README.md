@@ -58,5 +58,6 @@ To analyze retail sales data and identify key trends in revenue, product perform
 
 ## 👤 Author
 
-**Vikash** — BCA Student (ISM Patna College) | Coding Ninjas Alumni | Aspiring BI Developer  
-📌 Skills: Excel | Pivot Tables | Data Analysis | Power BI *(coming soon)*
+**Vikash** — BCA Student (ISM Patna College) | 
+Data Analytics (Excel, SQL, Python, Power BI) — Coding Ninjas | 
+Aspiring Data Analyst
